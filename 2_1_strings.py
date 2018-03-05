@@ -18,10 +18,10 @@ print(full name)
 ######################################
 ## some useful operations on strings #
 ######################################
-# print(greeting2.capitalize())
-# print(greeting2.upper())
-# print(greeting2.rsplit(' ')) # splitting the string by blank
-# print(greeting2.strip(' ')) # remove the blanks before and after the string
+print(greeting2.capitalize())
+print(greeting2.upper())
+print(greeting2.rsplit(' ')) # splitting the string by blank
+print(greeting2.strip(' ')) # remove the blanks before and after the string
 
 ###########################################
 ### another sample of printing a varibale #
