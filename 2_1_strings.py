@@ -1,18 +1,18 @@
 ####################################
 # following variables are the same #
 ####################################
-# str1=" salam "
-# str2='salam'
+str1=" anahita "
+str2='anahita'
 
 ######################
 ## concat two string #
 ######################
-# name='mohammad'
-# greeting= str1+name
-# print(greeting)
-#
-# greeting2=str1+" "+name
-# print(greeting2)
+family='Ayoubi'
+full name= str1+family
+print(full name)
+
+greeting2=str1+" "+family
+print(full name)
 #
 # print(("\'"+greeting2+" \'") * 3)
 ######################################
@@ -26,8 +26,8 @@
 ###########################################
 ### another sample of printing a varibale #
 ###########################################
-pi = 3.14
-print(pi)
-str_pi = str(pi)
-print("pi number is : ", pi)  # print each part of input separately
-print("pi number is : " + str(pi))  # concat two string
+#pi = 3.14
+#print(pi)
+#str_pi = str(pi)
+#print("pi number is : ", pi)  # print each part of input separately
+#print("pi number is : " + str(pi))  # concat two string
