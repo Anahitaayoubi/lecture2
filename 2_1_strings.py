@@ -1,8 +1,8 @@
 ####################################
 # following variables are the same #
 ####################################
-str1=" anahita "
-str2='anahita'
+str1=" Anahita "
+str2='Anahita'
 
 ######################
 ## concat two string #
