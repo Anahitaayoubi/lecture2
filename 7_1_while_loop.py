@@ -1,8 +1,8 @@
 ##################################
 ## example of a simple while loop#
 ##################################
-a=input("please enter your name\n")
-while a != "Ali":
-    print("oops you are not a legal user")
-    a = input("please enter your name\n")
-print("thanks for your registration")
+year=input("please enter year\n")
+while year < 2030 :
+    year += 2
+    print(year)
+   
